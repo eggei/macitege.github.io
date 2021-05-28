@@ -1,2 +1,1 @@
-# Macit Ege Ercan
-## Full-stack Web Developer
+# M. Ege Ercan Old Portfolio
